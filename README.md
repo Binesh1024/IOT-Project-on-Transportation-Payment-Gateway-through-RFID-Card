@@ -23,5 +23,10 @@ The above prototype illustrates the circuit design for the RFID-based payment ga
 ## Technical Diagram
 ![image](https://github.com/user-attachments/assets/b4e23f70-c3d5-4ddc-99f0-5db38be1fac4)
 
+## Demonstration Image
+![Screenshot 2024-11-14 135332](https://github.com/user-attachments/assets/ec146cda-5508-4c30-9c55-59cfaeeee7c1)
+
+
+
 
 
